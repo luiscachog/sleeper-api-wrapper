@@ -19,10 +19,10 @@ setup(
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python :: 3.5",
-        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
     ],
     packages=["sleeper_wrapper"],
     include_package_data=True,
-    install_requires=["requests==2.22.0", "pytest==4.6.2"]
+    install_requires=["requests==2.24.0", "pytest==6.1.0"]
 )

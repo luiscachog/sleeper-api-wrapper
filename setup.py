@@ -24,5 +24,5 @@ setup(
     ],
     packages=["sleeper_wrapper"],
     include_package_data=True,
-    install_requires=["requests==2.24.0", "pytest==6.1.0"]
+    install_requires=["requests==2.31.0", "pytest==6.1.0"]
 )
